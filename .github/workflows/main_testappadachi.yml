@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'testAppAdachi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D2B0E83652D4E439DD4425661AC6F69 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13575606AD874466A2C3E250013BF5E5 }}
           package: '*.war'
